@@ -3,4 +3,4 @@ This is all the community contribution for https://scriptfodder.com/scripts/view
 
 
 ## Rules About Submission
-
+* Item/Reicpe Submissions must have hl2 models
