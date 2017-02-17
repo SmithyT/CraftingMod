@@ -1,0 +1,16 @@
+
+local ITEM = {}
+
+ITEM.NAME = "Card Reader"
+ITEM.INFORMATION = "Complete Transactions Via Evocity Bank Accounts Rather Than In Cash."
+ITEM.MODEL = "models/arc/atm_cardmachine.mdl"
+ITEM.SKIN = 0
+ITEM.ENTITY = "sent_arc_pinmachine"
+ITEM.SELL = 50
+ITEM.BUY = 200
+
+ITEM.WEIGHT = 2
+
+ITEM.USE = nil
+
+CRAFTINGMOD.ITEMS:Register(ITEM)
