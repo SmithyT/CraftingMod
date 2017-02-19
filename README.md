@@ -3,7 +3,7 @@ This is all the community contribution for https://scriptfodder.com/scripts/view
 
 
 ## Rules About Submission
-* Item/Reicpe Submissions must have hl2 models
+* Item/Reicpe Submissions must have models from their respective addon or must specify what addon it comes from (W/ Workshop Link)
 * Any attempts of putting malicious code into the repository will get you blocked from it
 * If you're adding recipes for weapons (such as CW/FAS/M9K please put them in the correct place. Also, if they're not in the base packs of these said weapon bases then please specify the workshop link by doing the following
 ```lua
